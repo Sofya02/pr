@@ -1,0 +1,117 @@
+.container{
+    margin-left: auto;
+    width: 1180px;
+}
+
+.house{
+    text-decoration: none;
+    margin-left: -55px;
+    margin-right: 20px;
+}
+
+.icon_nav{
+    width:16px;
+    height:16px;
+    margin-right: 10px;
+}
+
+.nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+.col-4.block{
+    text-align: center;
+}
+
+h1{
+    font-size: 28px;
+}
+
+a{color:black;}
+
+.photos{
+    min-height: 150px;
+    margin-bottom: 30px;
+}
+
+.photo, .photo2, .photo12{
+    border-radius: 20px;
+}
+
+.photo2, .photo12{
+    height: 198px;
+    width:300px
+}
+
+.photo{
+    height: 400px;
+    width:550px;
+}
+
+.photo2{
+    margin-left: -25px;
+    margin-bottom: 2px;
+}
+.photo12{
+    margin-left: 133px;
+}
+
+ul{
+    list-style: none;
+    font-size: 18px;}
+
+
+.about_apart_m{
+    min-height: 70px;
+    margin-bottom: 30px;
+}
+
+.a_n_t{
+    margin-left: -40px;
+}
+
+.icon_con{
+    height:35px;
+    width:35px;
+    margin-right: 10px;
+}
+
+h6{color: #655c5f;}
+
+.aircover_img{
+    height: 30px;
+    width: 150px;
+    margin-bottom: 15px;
+}
+
+.line{
+    font-weight: bold;
+    text-decoration: underline;}
+
+
+.info, .aircover, .conveniences, .location, .important_information{
+    margin-bottom: 20px;
+}
+
+.about_location{
+    font-size: 16px;
+}
+
+footer{
+    background-color: rgb(242, 245, 246);
+    max-height: max-content;
+}
